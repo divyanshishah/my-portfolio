@@ -33,4 +33,4 @@ The website showcases:
 ## Author
 
 Divyanshi Shah
-BCA (AI & DS) Student
+
